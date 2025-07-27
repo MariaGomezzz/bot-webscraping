@@ -16,3 +16,6 @@ temp/
 *.xls
 *.xlsx
 *.csv
+
+# Archivos generados por extensiones de VSCode
+.qodo/
